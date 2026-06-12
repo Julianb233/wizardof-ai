@@ -26,3 +26,4 @@ node_modules/
 .hermes/
 .planning/e2e/results/
 agentic-os.config.json
+.env.production
