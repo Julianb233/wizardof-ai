@@ -27,3 +27,4 @@ node_modules/
 .planning/e2e/results/
 agentic-os.config.json
 .env.production
+AGENTS.md
